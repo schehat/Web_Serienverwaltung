@@ -1,2 +1,2 @@
-# Web_Serienverwaltung
-A small project realized during university at Hochschule Hannover
+# Series Managemnt
+A small web application realized during university at Hochschule Hannover
